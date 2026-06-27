@@ -116,6 +116,3 @@ Three detailed case studies with:
 ## 📄 License
 
 © 2024 CINTEXA. All rights reserved.
-"# xpn-cintexa-web" 
-"# xpn-cintexa-web" 
-"# xpn-cintexa-web" 
